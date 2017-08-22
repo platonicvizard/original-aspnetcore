@@ -1,0 +1,10 @@
+G:\Projects\TestCoreApplication\TestCoreApplication\bin\Debug\netcoreapp1.1\TestCoreApplication.deps.json
+G:\Projects\TestCoreApplication\TestCoreApplication\bin\Debug\netcoreapp1.1\TestCoreApplication.runtimeconfig.json
+G:\Projects\TestCoreApplication\TestCoreApplication\bin\Debug\netcoreapp1.1\TestCoreApplication.runtimeconfig.dev.json
+G:\Projects\TestCoreApplication\TestCoreApplication\bin\Debug\netcoreapp1.1\TestCoreApplication.dll
+G:\Projects\TestCoreApplication\TestCoreApplication\bin\Debug\netcoreapp1.1\TestCoreApplication.pdb
+G:\Projects\TestCoreApplication\TestCoreApplication\obj\Debug\netcoreapp1.1\TestCoreApplication.csprojResolveAssemblyReference.cache
+G:\Projects\TestCoreApplication\TestCoreApplication\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+G:\Projects\TestCoreApplication\TestCoreApplication\obj\Debug\netcoreapp1.1\TestCoreApplication.AssemblyInfo.cs
+G:\Projects\TestCoreApplication\TestCoreApplication\obj\Debug\netcoreapp1.1\TestCoreApplication.dll
+G:\Projects\TestCoreApplication\TestCoreApplication\obj\Debug\netcoreapp1.1\TestCoreApplication.pdb
